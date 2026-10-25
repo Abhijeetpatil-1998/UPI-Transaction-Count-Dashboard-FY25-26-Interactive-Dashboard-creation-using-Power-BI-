@@ -4,6 +4,9 @@ The payments analytics team wants a single comprehensive report UPI-Transaction-
 
 Tracking UPI transaction counts and volume distribution for FY 2025-26. This allows management to monitor monthly volume trends, track percentage contribution per month, identify peak/trough transaction periods, and evaluate quarter-over-quarter growth across the financial year.
 
+## Note :
+Due to data privacy and company confidentiality policies, raw datasets, customer records, and the original workbook are proprietary and cannot be shared publicly.
+
 ### Dataset used
 Monthly UPI transaction aggregate data for FY 2025-26 (April 2025 to March 2026)
 Fields: Month, Quarter, Transaction Count (Millions), Total Volume Share (%), Cumulative Volume
