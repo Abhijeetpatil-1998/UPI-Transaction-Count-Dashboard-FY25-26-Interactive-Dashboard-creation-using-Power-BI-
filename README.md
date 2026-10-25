@@ -20,7 +20,7 @@ Questions (KPIs)
 
 Dashboard Interaction
 
--<a href="https://github.com/Abhijeetpatil-1998/UPI-Transaction-Count-Dashboard-FY25-26-Interactive-Dashboard-creation-using-Power-BI-/blob/main/UPI%20Transaction%20Count%20Dashbaord%20(Month%20wise%20Growth.jpeg">View Dashboard</a>
+-<a href="https://github.com/Abhijeetpatil-1998/UPI-Transaction-Count-Dashboard-FY25-26-Interactive-Dashboard-creation-using-Power-BI-/blob/main/UPI%20Transaction%20Count%20Dashbaord%20(Month%20wise%20Growth).jpeg">View Dashboard</a>
 
 ## Process
 - Checked raw transaction logs for data integrity, missing monthly entries, and verified numerical scale consistency (Millions/Billions).
