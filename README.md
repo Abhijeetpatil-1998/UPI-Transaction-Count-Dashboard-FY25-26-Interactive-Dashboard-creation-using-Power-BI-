@@ -30,7 +30,7 @@ Dashboard Interaction
 - Assembled key callout KPI cards and embedded quarter slicers to enable dynamic filtering across Q1, Q2, Q3, and Q4.
 
 Dashboard
-
+![UPI Transaction Count Dashbaord](https://github.com/Abhijeetpatil-1998/UPI-Transaction-Count-Dashboard-FY25-26-Interactive-Dashboard-creation-using-Power-BI-/blob/main/UPI%20Transaction%20Count%20Dashbaord%20(Month%20wise%20Growth).jpeg)
 
 ### Project Insight
 - Total Volume: A aggregate of 4.3 Billion (4.3bn) UPI transactions were processed during FY 2025-26.
